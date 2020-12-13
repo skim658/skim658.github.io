@@ -5,7 +5,7 @@ description: Sean Kim is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Student}
+Student
 
 
 #### <a name="previousposition"></a>previous positions
@@ -13,11 +13,11 @@ Software Developer
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
 
 
-#### <a name="education"></a>ecucation
-{Insert text here}
+
+#### <a name="education"></a>education
+UW-Madison, George Washington University
 
 
 #### <a name="cvandresume"></a>cv and resume
