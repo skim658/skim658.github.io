@@ -20,7 +20,7 @@ keywords: statistics, data analytics
   <td class="left">
     <img src="assets/publpics/Screenshot 2020-12-13 134636.png"/>
   </td>
-  <td class="right">
+  <td class="middle">
     <img src="assets/publpics/Screenshot 2020-12-13 134706.png"/>
   </td>
   <td class="right">
@@ -32,9 +32,7 @@ keywords: statistics, data analytics
     <img src="assets/publpics/Screenshot 2020-12-13 134741.png"/>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
+    <img src="assets/publpics/Screenshot 2020-12-13 134758.png"/>
   </td>
 </tr>
 </table>
