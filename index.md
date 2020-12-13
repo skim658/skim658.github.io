@@ -21,7 +21,7 @@ keywords: statistics, data analytics
     <img src="assets/publpics/Screenshot 2020-12-13 134706.png"/>
   </td>
   <td class="right">
-    <img = src="assets/publpics/Screenshot 2020-12-13 134722.png"/>
+    <img src="assets/publpics/Screenshot 2020-12-13 134722.png"/>
   </td>
 </tr>
 <tr>
