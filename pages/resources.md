@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-description: Ben Harvey's assignments
+description: Sean Kim's assignments
 ---
 
 <div class="navbar">
