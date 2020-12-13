@@ -24,16 +24,14 @@ Review some basic Python and get familiar with Spark and Databricks
 
 
 ####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-{Add description of example an assignment here}
+##### <a name="scientificcomputing"></a>ML Deployment Options and Scalable Natural Language Processing
+Learn the different deployment options with databricks and Spark. Learn the basics of natural language processing with Spark.
 
 ####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-
-{Add description of example an assignment here}
+##### <a name="deeplearning"></a>Machine Learning in Spark
+Learn the basic machine learning algorithms in Spark.
 
 ####  <a name="Assignment4"></a>Assignment4
-##### <a name="networkanalysis"></a>network analysis
-
-{Add description of example an assignment here}
+##### <a name="networkanalysis"></a>Deep Learning and Reinforcement Learning
+Deep learning and reinforcement learning techniques.
 
