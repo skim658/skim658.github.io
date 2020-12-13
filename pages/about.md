@@ -1,11 +1,11 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Sean Kim is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{Student}
 
 
 #### <a name="previousposition"></a>previous positions
