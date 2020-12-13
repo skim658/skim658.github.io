@@ -18,9 +18,7 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
+    <img src="assets/publpics/Screenshot 2020-12-13 134636.png"/>
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
