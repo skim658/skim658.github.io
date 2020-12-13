@@ -21,10 +21,7 @@ keywords: statistics, data analytics
     <img src="assets/publpics/Screenshot 2020-12-13 134636.png"/>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
-    </a>
+    <img src="assets/publpics/Screenshot 2020-12-13 134706.png"/>
   </td>
 </tr>
 <tr>
