@@ -24,22 +24,6 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[World Band](http://data.worldbank.org/)
-{Add description of data here}
-
-[World Bank data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Reserve Bank India](https://rbi.org.in/Scripts/Statistics.aspx)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
 #### <a name="qtl"></a>[Five Thirty Eight Datasets](https://github.com/fivethirtyeight/data)
 {Add description of data here}
 
@@ -87,39 +71,6 @@ description: Ben Harvey's assignments
 [data repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
-
-#### <a name="qtl"></a>[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Qandl](https://www.quandl.com/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Past KDD Cups](http://www.kdd.org/kdd-cup)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
-#### <a name="qtl"></a>[Driven Data](https://www.drivendata.org/)
-{Add description of data here}
-
-[data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
 
 ## <a name="Tutorials"></a>Tutorials
 - [initial steps toward reproducible research](http://kbroman.org/steps2rr)
