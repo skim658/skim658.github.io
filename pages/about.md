@@ -9,7 +9,7 @@ description: Sean Kim is...
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+Software Developer
 
 
 #### <a name="researchbackground"></a>research background
