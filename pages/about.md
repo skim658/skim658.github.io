@@ -7,14 +7,8 @@ description: Sean Kim is...
 #### <a name="currentposition"></a>current position
 Student
 
-
 #### <a name="previousposition"></a>previous positions
 Software Developer
-
-
-#### <a name="researchbackground"></a>research background
-
-
 
 #### <a name="education"></a>education
 UW-Madison, George Washington University
