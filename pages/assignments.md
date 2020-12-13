@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Sean Kim's assignments
 ---
 
 
@@ -19,24 +19,10 @@ description: Ben Harvey's assignments
 </div>
 
 
-### EMSE 6992 Assignments
+### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-
-{Add description of example an assignment here}
-
-Results | Repository
----|---
-[assignment1 results]()| [assignment1 repositiory]()
-
----
+##### <a name="datamanipulationandaggregation"></a>Python and Databricks
+Review some basic Python and get familiar with Spark and Databricks
 
 
 ####  <a name="Assignment2"></a>Assignment2
