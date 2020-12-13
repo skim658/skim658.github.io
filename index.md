@@ -17,9 +17,6 @@ keywords: statistics, data analytics
 
 <table class="wide">
 <tr>
-  <td class="left">
-    <img src="assets/publpics/Screenshot 2020-12-13 134636.png"/>
-  </td>
   <td class="middle">
     <img src="assets/publpics/Screenshot 2020-12-13 134706.png"/>
   </td>
@@ -28,11 +25,19 @@ keywords: statistics, data analytics
   </td>
 </tr>
 <tr>
-  <td class="left" colspan = "1.5">
+  <td class="left">
     <img src="assets/publpics/Screenshot 2020-12-13 134741.png"/>
   </td>
   <td class="right">
     <img src="assets/publpics/Screenshot 2020-12-13 134758.png"/>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <img src="assets/publpics/Screenshot 2020-12-13 134814.png"/>
+  </td>
+  <td class="right">
+    <img src="assets/publpics/Screenshot 2020-12-13 134833.png"/>
   </td>
 </tr>
 </table>
